@@ -4,7 +4,7 @@
 // It will be used by the Solidity compiler to validate its version.
 pragma solidity ^0.8.7;
 
-contract Token {
+contract Counter {
     // State variables are stored on the blockchain.
     uint256 value;
 
